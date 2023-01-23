@@ -20,9 +20,9 @@ setup(
     long_description_content_type="text/markdown",
     license="MIT",
     url="https://github.com/then77/trakteerdonate",
-    packages=find_packages('src'),
-    package_dir={'': 'src'},
-    install_requires=["websockets"],
+    packages=find_packages('trakteerdonate'),
+    package_dir={'': 'trakteerdonate'},
+    install_requires=["websockets", "demjson3"],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",

@@ -22,7 +22,7 @@ setup(
     url="https://github.com/then77/trakteerdonate",
     packages=find_packages('trakteerdonate'),
     package_dir={'': 'trakteerdonate'},
-    install_requires=["websockets", "demjson3"],
+    install_requires=["websockets"],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",

@@ -1,6 +1,6 @@
 from trakteerdonate import Client
 
-client = Client("hash", "streakKey")
+client = Client("hash", "streamKey")
 
 @client.event
 async def on_connect(ws):

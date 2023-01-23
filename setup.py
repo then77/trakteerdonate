@@ -11,7 +11,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name="TrakteerDonate",
+    name="trakteerdonate",
     version="1.0a1",
     author="Realzzy",
     author_email="hello@therealzzy.xyz",
@@ -22,7 +22,7 @@ setup(
     url="https://github.com/then77/trakteerdonate",
     packages=find_packages('trakteerdonate'),
     package_dir={'': 'trakteerdonate'},
-    install_requires=["websockets", "demjson3"],
+    install_requires=["websockets"],
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",

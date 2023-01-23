@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+trakteerdonate/TrakteerDonate.egg-info/PKG-INFO
+trakteerdonate/TrakteerDonate.egg-info/SOURCES.txt
+trakteerdonate/TrakteerDonate.egg-info/dependency_links.txt
+trakteerdonate/TrakteerDonate.egg-info/requires.txt
+trakteerdonate/TrakteerDonate.egg-info/top_level.txt

@@ -1,7 +1,6 @@
 from trakteerdonate import Client
-from time import sleep
 
-client = Client("b9073avgmok3ekzg", "nHosJttAGiUsVj4CfirU", block=False, test=True)
+client = Client("hash", "streamkey")
 
 @client.event
 async def on_connect(ws):
@@ -15,4 +14,3 @@ async def on_donation(ws, data):
     print(f"  - Message: {data.message}")
 
 client.start()
-time.sleep(30)

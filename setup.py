@@ -12,7 +12,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="trakteerdonate",
-    version="1.0a1",
+    version="1.0a2",
     author="Realzzy",
     author_email="hello@therealzzy.xyz",
     description="An easy way to listen for Trakteer donation in Python",
@@ -20,8 +20,8 @@ setup(
     long_description_content_type="text/markdown",
     license="MIT",
     url="https://github.com/then77/trakteerdonate",
-    packages=find_packages('trakteerdonate'),
-    package_dir={'': 'trakteerdonate'},
+    packages=find_packages('src'),
+    package_dir={'': 'src'},
     install_requires=["websockets"],
     classifiers=[
         "Development Status :: 3 - Alpha",

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+src/trakteerdonate/__init__.py
+src/trakteerdonate/client.py
+src/trakteerdonate/data_types.py
+src/trakteerdonate.egg-info/PKG-INFO
+src/trakteerdonate.egg-info/SOURCES.txt
+src/trakteerdonate.egg-info/dependency_links.txt
+src/trakteerdonate.egg-info/requires.txt
+src/trakteerdonate.egg-info/top_level.txt

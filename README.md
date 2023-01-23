@@ -12,7 +12,7 @@ pip install trakteerdonate
 Or,
 
 ```bash
-pip install git+https://github.com/then77/
+pip install git+https://github.com/then77/trakteerdonate
 ```
 
 ## Package Usage

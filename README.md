@@ -1,6 +1,6 @@
 <p align="center"><b>⚠️ NOTE: THIS PROJECT IS ONLY FOR EDUCATIONAL PURPOSE!! ⚠️<br>I WONT RESPONSIBLE FOR SOMETHING HAPPEN WHEN USING THIS PROGRAM!!</b></p>
 
-<h1 align="center">Trakteer Donate</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/then77/trakteerdonate/main/trakteerdonate.png" alt="Trakteer Donate"></h1>
 <p align="center">An easy way to listen for Trakteer donation in Python</p>
 
 ## Installation
@@ -61,7 +61,7 @@ client.start()
 ```
 
 ## Known Issue
-Since this package use websocket to communicate, some host like [`Replit`](https://replit.com) may not allow this protocol. But, you still can run on your local pc or another host that support it.
+Since this package use websocket to communicate, some host like [`Replit`](https://replit.com/talk/ask/Socket-not-connecting/52103) may not allow this protocol. But, you still can run on your local pc or another host that support it.
 
 ## Repository License
 This repository and its code is under the MIT License. [Read more here](https://github.com/then77/trakteerdonate/blob/main/LICENSE).

@@ -60,5 +60,8 @@ async def on_donation(ws, data):
 client.start()
 ```
 
+## Known Issue
+Since this package use websocket to communicate, some host like [`Replit`](https://replit.com) may not allow this protocol. But, you still can run on your local pc or another host that support it.
+
 ## Repository License
 This repository and its code is under the MIT License. [Read more here](https://github.com/then77/trakteerdonate/blob/main/LICENSE).

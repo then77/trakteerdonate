@@ -66,7 +66,7 @@ client.start()
 Currenly no since i dont have much time to do that. But, i found another cool project that can do something like that [here](https://github.com/KatowProject/trakteer-scraper). Even though it uses **Javascript**, its still awesome.
 
 ## Known Issue
-Since this package use websocket to communicate, some host like [`Replit`](https://replit.com/talk/ask/Socket-not-connecting/52103) may not allow this protocol. But, you still can run on your local pc or another host that support it.
+Since this package use websocket to communicate, some host like [`Replit`](https://replit.com/talk/ask/Socket-not-connecting/52103) may not allow this protocol. But, you still can run on your local pc or another host that support it, or you can use alternative library i mentioned above since it doesn't use websocket thing.
 
 ## Repository License
 This repository and its code is under the MIT License. [Read more here](https://github.com/then77/trakteerdonate/blob/main/LICENSE).

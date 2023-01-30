@@ -60,6 +60,11 @@ async def on_donation(ws, data):
 client.start()
 ```
 
+## More Info For API
+*Wait, do you have another API to interact instead of only listening donation?*
+
+Currenly no since i dont have much time to do that. But, i found another cool project that can do something like that [here](https://github.com/KatowProject/trakteer-scraper). Even though it uses **Javascript**, its still awesome.
+
 ## Known Issue
 Since this package use websocket to communicate, some host like [`Replit`](https://replit.com/talk/ask/Socket-not-connecting/52103) may not allow this protocol. But, you still can run on your local pc or another host that support it.
 

@@ -1,4 +1,4 @@
-<p align="center"><b>⚠️ NOTE: THIS PROJECT IS ONLY FOR EDUCATIONAL PURPOSE!! ⚠️<br>I WONT RESPONSIBLE FOR SOMETHING HAPPEN WHEN USING THIS PROGRAM!!</b></p>
+<p align="center"><b>⚠️ Note: This Library Seems Will Not Work For Now ⚠️<br>Since They Change The Way This Program Listen For Donation.<br>Want to help me? Sure i appreciate!</p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/then77/trakteerdonate/main/trakteerdonate.png" alt="Trakteer Donate"></h1>
 <p align="center">An easy way to listen for Trakteer donation in Python</p>
